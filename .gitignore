@@ -4,6 +4,7 @@
 **/.gradle
 **/*.iml
 **/.idea
+**/.gradlew
 /captures
 .externalNativeBuild
 
